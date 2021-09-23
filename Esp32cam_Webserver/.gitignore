@@ -4,5 +4,5 @@
 .vscode/launch.json
 .vscode/ipch
 .tools/a.out
-.tools/*.gz
+.tools/index.html.gz
 
